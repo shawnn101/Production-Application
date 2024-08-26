@@ -9,6 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 from datetime import datetime
 
 # Define lists of productive and unproductive applications
+# This block is editable based on the users needs/applications #
 productive_apps = ["Word", "Excel", "PyCharm", "CLion",
                    "Opera.exe", "Obsidian", "msedge.exe", "Python", "Slack"]
 unproductive_apps = ["Steam.exe", "Fallout", "Minecraft", "EpicGamesLauncher.exe", "Valorant", "RiotClient", "osu"]
