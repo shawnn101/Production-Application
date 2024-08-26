@@ -4,7 +4,7 @@ This project is still under development. Additions and changes are to be made re
 # Production-Application
 The productivity tracker monitors the specified running processes on a computer, categorizes them as productive or unproductive, and provides real-time feedback to the user using a GUI built with PyQt5. Based on the user's past and present productivity, an ML algorithm will make sure to send daily reminders and recommendations that reflect the users' actions. Additional files are made for tracking and troubleshooting purposes. Sample documents are provided in the repository. <be>
 
-Note: File main.qml is used to create the widget
+Note: File **main.qml** is used to create the widget
 
 ## Libraries
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following libraries:
