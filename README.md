@@ -21,7 +21,7 @@ pip install scikit-learn
 ```
 
 # Versions
-## v0.0.1
+## v1.0
 - Code implements most above libraries to achieve functions
 - The program tracks the stated programs respective to its class and prints out each process and its class when the program is terminated
 - Program percentage breakdown is printed out when the program is terminated
